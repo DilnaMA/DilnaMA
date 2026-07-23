@@ -17,11 +17,11 @@ Databases: MySQL
 Tools: Git, GitHub, Jupyter Notebook, VS Code
  ### Education
 
-School of Skills
+##### School of Skills
 
 Data Science (Currently Pursuing)
 
-Nilgiri College
+###### Nilgiri College
 
 Bachelor of Business Administration (BBA) – International Business
 #### Goals
